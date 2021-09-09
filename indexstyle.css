@@ -1,0 +1,18 @@
+h3 {
+	border-bottom: 1px solid #000000;
+	width: 75%;
+}
+
+#about {
+	text-align: center;
+}
+
+.contact {
+	text-align: center;
+}
+
+nav {
+	border: 1px solid #000000;
+	background-color: #F96B6B;
+	width: 85%;
+}

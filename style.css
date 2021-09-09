@@ -1,0 +1,29 @@
+nav {
+	border: 1px solid #000000;
+	background-color: #F96B6B;
+	width: 85%;
+}
+
+h3{
+	text-align: center;
+	border-bottom: 1px solid #121618;
+}
+
+div {
+	text-align: center;
+}
+
+ul {
+	display: table;
+	margin: 0 auto;
+	text-align: left;
+}
+
+img {
+	border: 2px solid #000000;
+}
+
+#contact {
+	border-bottom: 1px solid #464646;
+	width: 35%;
+}
