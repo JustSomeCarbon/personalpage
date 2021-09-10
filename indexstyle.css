@@ -16,3 +16,24 @@ nav {
 	background-color: #F96B6B;
 	width: 85%;
 }
+
+#github {
+	background-color: #A3FAB9;
+	display: inline-block;
+	text-align: center;
+}
+
+#twitter {
+	background-color: #AED6F8;
+	text-align: center;
+	display: inline-block;
+}
+
+footer {
+	border-top: 1px solid #464646;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	position: fixed;
+}
