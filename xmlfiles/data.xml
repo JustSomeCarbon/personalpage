@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<resume>
+	<title>Resume</title>
+	<name>Noe Garcia</name>
+	<contact>
+		<email>noe.garcia@student.nmt.edu</email>
+		<phone>575-613-5348</phone>
+		<twitter>@noav_garcia</twitter>
+		<github>JustSomeCarbon</github>
+	</contact>
+	<exp>
+		<title>Education</title>
+		<uni>New Mexico Institute of Mining and Technology</uni>
+		<gpa>3.37</gpa>
+	</exp>
+	<exp>
+		<title>Technical Skills</title>
+		<subtitle>Languages</subtitle>
+		C, Golang, Python, JavaScript, Java
+		<subtitle>Relevant Skills</subtitle>
+		<list type="bullet">
+			<item>Linux OS and Linux command line</item>
+			<item>Algorithm analysis and development</item>
+			<item>Software Engineering</item>
+			<item>Operating Systems and Computer Architecture</item>
+		</list>
+	</exp>
+	<exp>
+		<title>Professional Experience</title>
+		<block>
+			<company>InfluxData</company>
+			<start>May 2021</start>
+			<end>August 2021</end>
+			<job>Intern Software Engineer</job>
+			<list type="bullet">
+				<item>Work with Flux language team to fix language format issues</item>
+				<item>Work on language parser to implement dynamic in-house documentation for the Flux standard library</item>
+			</list>
+		</block>
+		<block>
+			<company>New Mexico Tech Cyber Security Department</company>
+			<start>October 2020</start>
+			<end>May 2021</end>
+			<job>Student Worker</job>
+			<list type="bullet">
+				<item>Backend developer for 'InQuizet' project: an open source slideshow presentation software</item>
+			</list>
+		</block>
+		<block>
+			<company>TaosNet</company>
+			<start>October 2016</start>
+			<end>March 2017</end>
+			<job>Intern Software Engineer</job>
+			<list type="bullet">
+				<item>Organize and manage projects</item>
+				<item>Coordinate in conjunction with team members of the project</item>
+				<item>Read, debug, and Optimize pre-existing code</item>
+			</list>
+		</block>
+	</exp>
+</resume>
