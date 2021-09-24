@@ -8,15 +8,15 @@
 		<twitter>@noav_garcia</twitter>
 		<github>JustSomeCarbon</github>
 	</contact>
-	<exp>
+	<exp1>
 		<title>Education</title>
 		<uni>New Mexico Institute of Mining and Technology</uni>
 		<gpa>3.37</gpa>
-	</exp>
-	<exp>
+	</exp1>
+	<exp2>
 		<title>Technical Skills</title>
 		<subtitle>Languages</subtitle>
-		C, Golang, Python, JavaScript, Java
+		<text>C, Golang, Python, JavaScript, Java</text>
 		<subtitle>Relevant Skills</subtitle>
 		<list type="bullet">
 			<item>Linux OS and Linux command line</item>
@@ -24,8 +24,8 @@
 			<item>Software Engineering</item>
 			<item>Operating Systems and Computer Architecture</item>
 		</list>
-	</exp>
-	<exp>
+	</exp2>
+	<exp3>
 		<title>Professional Experience</title>
 		<block>
 			<company>InfluxData</company>
@@ -57,5 +57,5 @@
 				<item>Read, debug, and Optimize pre-existing code</item>
 			</list>
 		</block>
-	</exp>
+	</exp3>
 </resume>
